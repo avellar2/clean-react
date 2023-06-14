@@ -7,6 +7,7 @@ module.exports = {
     'no-empty-function': 'off',
     '@typescript-eslint/no-empty-function': 'error',
     '@typescript-eslint/strict-boolean-expressions': 'off',
-    '@typescript-eslint/camelcase': 'off'
+    '@typescript-eslint/camelcase': 'off',
+    "@typescript-eslint/consistent-type-definitions": 'off'
   }
 }
